@@ -5,7 +5,7 @@
 #### tel: +7 (905) 773-87-63; e-mail: vital.fedorov@me.com
 -----
 
-## <pre>Data scientist</pre>
+## <pre>Data Scientist</pre>
 > <b>Programming skills</b>: Python, C/C++, SQL  
 > <b>Frameworks and Toolkits</b>: Numpy, Pandas, Scikit-learn, Tensorflow, PyTorch, Docker  
 > <b>OS</b>: Ubuntu, MacOS, Win
