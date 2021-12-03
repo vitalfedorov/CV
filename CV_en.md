@@ -25,7 +25,7 @@
 > Silver medal for the notebook "2LSTM+Attention is Incoming"  
 
 ## <pre>Experience</pre>
-<b>Institute for the Social Analysis and Forecasting of RANEPA. Researcher. (2013 - н.в.)</b>
+<b>Institute for the Social Analysis and Forecasting of the Russian Presidential Academy of National Economy and Public Administration. Researcher. (2013 - н.в.)</b>
 > <i>Reform and development of the pension system of the Russian Federation</i>  
 > Preprints:
 >> - Improvement of mechanisms and financial sources of the insurance pension system. 2021  
