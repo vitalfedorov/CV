@@ -24,8 +24,8 @@
 > Silver medal for the medal "2LSTM+Attention is Incoming"  
 
 ## <pre>Experience</pre>
-<b>ИНСАП RANEPA. Researcher. (2013 - н.в.)</b>
-> <i>Реформирование и развитие пенсионной системы РФ</i>  
+<b>Institute for the Social Analysis and Forecasting of RANEPA. Researcher. (2013 - н.в.)</b>
+> <i>Reform and development of the pension system of the Russian Federation</i>  
 > Preprints:
 >> - Совершенствование механизмов и источников финансирования страховой пенсионной системы. 2021  
 >> - Факторы роста уровня пенсионного обеспечения в среднесрочной и долгосрочной перспективе. 2020  
@@ -33,15 +33,15 @@
 >> - Анализ влияния налоговой системы на доходы населения на современном этапе экономического развития. 2018
 >> - etc.
 
-<b> Страховая компания "Согласие". Главный специалист. (2009 - 2013)</b>
+<b> Insurance Company "Soglasie". Senior specialist. (2009 - 2013)</b>
 > <i>Corporate strategy</i>  
 > Financial modeling and analytical reports preparation
 
-<b>OJSC "Norilsk Nickel". Senior Specialist. (2003 - 2009)</b>
+<b>OJSC "Norilsk Nickel". Senior specialist. (2003 - 2009)</b>
 > <i>Compensations and benfits (C&B)</i>   
 > Developed C&B database, modeling and analytical reports preparation
 
-<b>Cognitive Technologies Ltd. Программист C/C++. (1999-2003) </b>
+<b>Cognitive Technologies Ltd. Software developer in C/C++. (1999-2003) </b>
 > <i>Machine Translation System</i>  
 > Designed and developed the lemmatization library, translation library and the special purpose interpreter for the syntax parsing
 >  
