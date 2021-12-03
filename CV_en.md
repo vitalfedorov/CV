@@ -43,7 +43,7 @@
 
 <b>Cognitive Technologies Ltd. Программист C/C++. (1999-2003) </b>
 > <i>Machine Translation System</i>  
-> Designed and developed the lemmatization library, translation library and special purpose interpreter for the syntax parsing
+> Designed and developed the lemmatization library, translation library and the special purpose interpreter for the syntax parsing
 >  
 > <i>Optical Character Recognition (OCR)</i>   
 > Developed the software library for the dictionary based correction of OCR results
