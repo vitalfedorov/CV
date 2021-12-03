@@ -28,11 +28,11 @@
 <b>Institute for the Social Analysis and Forecasting of RANEPA. Researcher. (2013 - н.в.)</b>
 > <i>Reform and development of the pension system of the Russian Federation</i>  
 > Preprints:
->> - Совершенствование механизмов и источников финансирования страховой пенсионной системы. 2021  
->> - Факторы роста уровня пенсионного обеспечения в среднесрочной и долгосрочной перспективе. 2020  
->> - Усиление страховых принципов в системе обязательного пенсионного страхования. 2019  
->> - Анализ влияния налоговой системы на доходы населения на современном этапе экономического развития. 2018
->> - etc.
+>> - Improvement of mechanisms and financial sources of the insurance pension system. 2021  
+>> - Factors of pensions growth in the med- and long term provision. 2020  
+>> - Strengthening insurance principles in the compulsory pension insurance system. 2019  
+>> - Analysis of the impact of the tax system on the income of the population at the present stage of the economic development. 2018  
+>> - etc.  
 
 <b> Insurance Company "Soglasie". Senior specialist. (2009 - 2013)</b>
 > <i>Corporate strategy</i>  
