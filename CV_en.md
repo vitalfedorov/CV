@@ -49,5 +49,5 @@
 > Developed the software library for the dictionary based correction of OCR results
 
 ## <pre>Additional</pre>
-> Hobbies: fitness, books. videogames (RTS and RPG)  
-> Candidate to the Master of Sport in the figure skating, Chempion of the city of Norilsk
+> Hobbies: fitness, books, videogames (RTS and RPG)  
+> Candidate to the Master of Sport in the figure skating, Champion of the city of Norilsk
