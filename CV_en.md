@@ -29,7 +29,7 @@
 > <i>Reform and development of the pension system of the Russian Federation</i>  
 > Preprints:
 >> - Improvement of mechanisms and financial sources of the insurance pension system. 2021  
->> - Factors of pensions growth in the med- and long term provision. 2020  
+>> - Factors of pensions growth in the mid- and long term outlook. 2020  
 >> - Strengthening insurance principles in the compulsory pension insurance system. 2019  
 >> - Analysis of the impact of the tax system on the income of the population at the present stage of the economic development. 2018  
 >> - etc.  
