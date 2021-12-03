@@ -48,6 +48,6 @@
 > <i>Optical Character Recognition (OCR)</i>   
 > Developed the software library for the dictionary based correction of OCR results
 
-## <pre>Дополнительно</pre>
-> Hobbies: fitness, books. videogames (RTS and RPG)
+## <pre>Additional</pre>
+> Hobbies: fitness, books. videogames (RTS and RPG)  
 > Candidate to the Master of Sport in the figure skating, Chempion of the city of Norilsk
