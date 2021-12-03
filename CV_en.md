@@ -15,13 +15,13 @@
 > Computer Science, Specialist    
 
 <b>MOOC</b>
-> Coursera. GANs. 2021   
+> Coursera. GANs. 2022   
 > Coursera. Natural Language Processing. 2020  
 > Coursera. Machine Learning. 2015  
 
 <b>Kaggle - <https://www.kaggle.com/vv0x0x></b>
 > Silver medal in the competition "Santander Customer Transaction Prediction"  
-> Silver medal for the medal "2LSTM+Attention is Incoming"  
+> Silver medal for the notebook "2LSTM+Attention is Incoming"  
 
 ## <pre>Experience</pre>
 <b>Institute for the Social Analysis and Forecasting of RANEPA. Researcher. (2013 - н.в.)</b>
