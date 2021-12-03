@@ -49,6 +49,5 @@
 > Developed the software library for the dictionary based correction of OCR results
 
 ## <pre>Дополнительно</pre>
-> Без вредных привычек  
-> Хожу на фитнес  
-> КМС по фигурному катанию, чемпион г. Норильска 
+> Hobbies: fitness, books. videogames (RTS and RPG)
+> Candidate to the Master of Sport in the figure skating, Chempion of the city of Norilsk
