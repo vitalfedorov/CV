@@ -15,9 +15,10 @@
 > Computer Science, Specialist    
 
 <b>MOOC</b>
-> Coursera. GANs. 2022   
-> Coursera. Natural Language Processing. 2020  
-> Coursera. Machine Learning. 2015  
+> Coursera. GANs. 2022     
+> Coursera. TensorFlow Developer. 2020  
+> Coursera. Natural Language Processing Specialization. 2020  
+> Coursera. Deep Learning Specialization. 2017  
 
 <b>Kaggle - <https://www.kaggle.com/vv0x0x></b>
 > Silver medal in the competition "Santander Customer Transaction Prediction"  
