@@ -24,9 +24,9 @@
 > Silver medal for the medal "2LSTM+Attention is Incoming"  
 
 ## <pre>Experience</pre>
-<b>ИНСАП РАНХиГС. Научный сотрудник. (2013 - н.в.)</b>
+<b>ИНСАП RANEPA. Researcher. (2013 - н.в.)</b>
 > <i>Реформирование и развитие пенсионной системы РФ</i>  
-> Препринты:
+> Preprints:
 >> - Совершенствование механизмов и источников финансирования страховой пенсионной системы. 2021  
 >> - Факторы роста уровня пенсионного обеспечения в среднесрочной и долгосрочной перспективе. 2020  
 >> - Усиление страховых принципов в системе обязательного пенсионного страхования. 2019  
@@ -34,19 +34,19 @@
 >> - etc.
 
 <b> Страховая компания "Согласие". Главный специалист. (2009 - 2013)</b>
-> <i>Стратегия развития компании</i>  
-> Финансовое моделирование, подготовка аналитических материалов и презентаций
+> <i>Corporate strategy</i>  
+> Financial modeling and analytical reports preparation
 
-<b>ПАО "Норильский никель". Главный специалист. (2003 - 2009)</b>
-> <i>Развитие системы оплаты труда</i>   
-> Разработка базы данных, моделирование, подготовка аналитических материалов и презентаций
+<b>OJSC "Norilsk Nickel". Senior Specialist. (2003 - 2009)</b>
+> <i>Compensations and benfits (C&B)</i>   
+> Developed C&B database, modeling and analytical reports preparation
 
 <b>Cognitive Technologies Ltd. Программист C/C++. (1999-2003) </b>
-> <i>Разработка системы машинного перевода</i>  
-> Создание морфологических словарей, словарей перевода, разработка интерпретатора языка программирования для синтаксического разбора  
+> <i>Machine Translation System</i>  
+> Designed and developed the lemmatization library, translation library and special purpose interpreter for the syntax parsing
 >  
-> <i>Оптическое распознавание символов (OCR)</i>   
-> Словарная коррекция результатов распознавания системы OCR
+> <i>Optical Character Recognition (OCR)</i>   
+> Developed the software library for the dictionary based correction of OCR results
 
 ## <pre>Дополнительно</pre>
 > Без вредных привычек  
