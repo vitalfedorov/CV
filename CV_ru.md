@@ -15,7 +15,7 @@
 > Кибернетика, Специалист    
 
 <b>MOOC</b>
-> Coursera. GANs. 2021 - В процессе...  
+> Coursera. GANs. 2022     
 > Coursera. Natural Language Processing. 2020  
 > Coursera. Machine Learning. 2015  
 
